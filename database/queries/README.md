@@ -1,0 +1,1 @@
+# Queries de estudo SQL
